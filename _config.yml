@@ -22,7 +22,8 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : "disqus"
-    shortname            :
+    disqus               :
+    shortname            : puzzledoyster-github-io
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
