@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+All papers, abstracts and other information
 
-{% include base_path %}
+<h2 id="htt"><font color="#336666"> Accepted Papers </font></h2> 
+<ul>
+  <li> Ng, M., and Vickers, S., Point-free Construction of Real Exponentiation. <i>To appear in Logical Methods of Computer Science</i></li>
+  <\ul>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<h2 id="htt"><font color="#336666"> Preprints and Submitted Papers </font></h2> 
+    <ul>
+  <li> </li>
+  <\ul>
