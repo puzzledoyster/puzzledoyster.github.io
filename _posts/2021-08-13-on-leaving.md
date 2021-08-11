@@ -18,7 +18,7 @@ comments: true
 - <a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal{C}^{\mathrm{op}}\rightarrow&space;\mathrm{Set}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathcal{C}^{\mathrm{op}}\rightarrow&space;\mathrm{Set}" title="\mathcal{C}^{\mathrm{op}}\rightarrow \mathrm{Set}" /></a>
 - Quote Email to Mura: 
 - Self-worth
-- The unknown, by its lack of dimensions, appears infinite and untransversable, and by its blackness, portentous with hidden dangers. There's an unspoken sense that there are accidents just waiting to happen: it feels like because so many things have to go right, this simply creates more opporunities for things to go wrong. Everything feels chance-y and unstable. Where does one's luck finally run out?
+- The unknown, by its lack of dimensions, appears infinite and untransversable, and by its blackness, portentous with hidden dangers. There's an unspoken sense that there are accidents just waiting to happen: it feels like because so many things have to go right for us to make it, this only creates more opporunities for things to go wrong. Everything feels chance-y and unstable. You can't help but wonder: is there where my luck finally runs out?
 - One thing at a time. 
 - Birman: Do math at your own pace. One thing at a time.
 - Declutter: eliminate unnecessary things.
