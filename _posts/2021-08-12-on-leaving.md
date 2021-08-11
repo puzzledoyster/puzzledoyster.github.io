@@ -8,10 +8,10 @@ comments: true
 ---
 
 <figure>  
-<br/><img src='/images/onleavingphoto.jpg',width="400" 
-     height="500">
-<FIGCAPTION></FIGCAPTION>
+<img src='/images/onleavingphoto.jpg', width="400" 
+     height="400">
 </figure>
+
 
 - Bad PhD theses from UChicago
 - Math-life Balance: Saul Glasman, Inna Zakh,
