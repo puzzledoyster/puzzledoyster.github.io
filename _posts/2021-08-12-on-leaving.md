@@ -8,8 +8,8 @@ comments: true
 ---
 
 <figure>  
-<img src='https://puzzledoyster.github.io/images/onleavingphoto.jpg' width="400" 
-     height="400" class ="center">
+<img src='https://puzzledoyster.github.io/images/onleavingphoto.jpg' width="300" 
+     height="300" class ="center">
 </figure>
 
 
