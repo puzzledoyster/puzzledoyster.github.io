@@ -9,7 +9,7 @@ comments: true
 
 <figure>  
 <br/><img src='/images/onleavingphoto.jpg',width="400" 
-     height="500", class="centerImage">
+     height="500">
 <FIGCAPTION></FIGCAPTION>
 </figure>
 
