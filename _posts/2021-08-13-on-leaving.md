@@ -13,7 +13,7 @@ comments: true
 </figure>
 
 
-- Bad PhD theses from UChicago
+- Beer skits and math community @ UChicago, Bad PhD theses by TAs.
 - Math-life Balance: Saul Glasman (story we tell ourselves), Inna Zakh,
 - <a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal{C}^{\mathrm{op}}\rightarrow&space;\mathrm{Set}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathcal{C}^{\mathrm{op}}\rightarrow&space;\mathrm{Set}" title="\mathcal{C}^{\mathrm{op}}\rightarrow \mathrm{Set}" /></a>
 - Quote Email to Mura: 
