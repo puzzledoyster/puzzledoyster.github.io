@@ -8,13 +8,13 @@ comments: true
 ---
 
 <figure>  
-<img src='/images/onleavingphoto.jpg', width="400" 
-     height="400">
+<img src='https://puzzledoyster.github.io/images/onleavingphoto.jpg' width="400" 
+     height="400" class ="center">
 </figure>
 
 
 - Bad PhD theses from UChicago
-- Math-life Balance: Saul Glasman, Inna Zakh,
+- Math-life Balance: Saul Glasman (story we tell ourselves), Inna Zakh,
 - <a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal{C}^{\mathrm{op}}\rightarrow&space;\mathrm{Set}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathcal{C}^{\mathrm{op}}\rightarrow&space;\mathrm{Set}" title="\mathcal{C}^{\mathrm{op}}\rightarrow \mathrm{Set}" /></a>
 - Quote Email to Mura: 
 - Self-worth
