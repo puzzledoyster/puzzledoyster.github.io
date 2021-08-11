@@ -27,3 +27,4 @@ comments: true
 - Malliaris.
 - Why am I here? 
 - Fear is a friend, but fear is also an illusion. Allow yourself to be guided by the math, and focus on what you can control and make peace with what you can't. There are no guarantees in life anyway.
+- Losing yourself by "playing the game"
