@@ -3,7 +3,7 @@ layout: single
 title: 'If I must leave'
 date: 2021-08-13
 comments: true
-excerpt: "Everyone has a story on how they'll be the ones who make it. However, as time goes on, reality filters in and (for most of us, at least), we have to confront the unpleasant and sobering possibility that ... maybe we won't be able to stay. This post consists of some musings about this issue, where I've reframed the issue as: 'Suppose if I must leave academia, what would I like to accomplish or get done so that I leave without regrets?'"
+excerpt: "Everyone has a story on how they'll be the ones who make it. However, as time goes on, reality filters in and (for most of us, at least), we have to confront the unpleasant and sobering possibility that ... maybe we won't be able to stay. This post contains some musings about this issue, where I've reframed the question as: 'Suppose if I must leave academia, what would I like to accomplish so that I leave without regrets?'"
 comments: true
 ---
 
