@@ -14,5 +14,6 @@ All papers, abstracts and other information
 
 <section>
 <h2 id="htt"><font color="#336666"> Preprints and Submitted Papers </font></h2> 
-    <ul><li> Ng, M., and Vickers, S., Compactification of Spec(Z) via Geometric Logic. <i>In preparation.</i> </li></ul>
+  <ul><li> Ng, M., and Vickers, S., The Topos of Absolute Values & the Berkovich Disc.<i> In preparation.</i> </li></ul>
+    <ul><li> Ng, M., and Vickers, S., A New Look at the Compactification of Spec(Z).<i> In preparation.</i> </li></ul>
 </section>
