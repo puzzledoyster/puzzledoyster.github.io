@@ -11,7 +11,9 @@ redirect_from:
 
 <b>What I'm thinking about:</b> Topos theory, at its core, is motivated by recognising topological ideas in settings which are not obviously topological -- e.g. in algebraic geometry (etale cohomology), or in logic (the classifying topos of geometric theories). My PhD work involved investigating various interactions between the number theory & the logic, guided through the lens of topology. 
 
-I'm also thinking about:
+<ul><li> <a href="/publications/FINALSUBMISSION.pdf">Thesis</a>: Adelic Geometry via Topos Theory. Here's a brief <a href=/publications/Introduction> overview</a>. </li></ul>
+ 
+Aside, from developing the various ideas explored in my thesis, I'm also thinking about:
 
 <ul><li> Interactions between model theory & topos theory: AECs, Hrushovski-Loeser types, characterising saturated models etc.
   </li></ul>
