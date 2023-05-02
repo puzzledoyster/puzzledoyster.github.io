@@ -7,9 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<b>What I'm doing now:</b> I am currently a PhD student at the University of Birmingham, under the supervision of <a href="https://www.cs.bham.ac.uk/~sjv/" target ="_blank"> Steve Vickers</a>. Although my research interests lie primarily in the area of pure mathematics, I am a member of the Theoretical Computer Science group since this is the official habitat of the category theorists at my university. 
+<b>What I'm doing now:</b> I am currently a PostDoc at Queen Mary University of London, under the supervision of Ivan Tomasic.
 
-<b>Research Area:</b> The main focus of my research involves developing a version of adelic geometry via topos theory, and exploring its interactions with Local-Global problems (both in number theory and homotopy theory). I also have side-projects relating to K-theory (particularly in relation to scissors congruence), Manin's Conjecture, and Abstract Elementary Classes.
+<b>What I'm thinking about:</b> Topos theory, at its core, is motivated by recognising topological ideas in settings which are not obviously topological -- e.g. in algebraic geometry (etale cohomology), or in logic (the classifying topos of geometric theories). My PhD work involved investigating various interactions between the number theory & the logic, guided through the lens of topology. There are also other things I'm thinking about:
+
+<ul><li> Interactions between model theory & topos theory: AECs, Hrushovski-Loeser types, characterising saturated models etc.
+  </li></ul>
+  <ul><li> Distribution of Rational Points: I am currently co-organising the <a href="https://nms.kcl.ac.uk/rosa.winter/StudyGroupManinSzemeredi.html"> London Algebraic NT study group on Manin's Conjecture & Szemeredi Regularity </a> with Rosa Winter.
+  </li></ul>
+<ul><li> K-Theory and Scissors Congruence
+  </li></ul>
 
 
-<b>Academic Background:</b> Prior to my time at Birmingham, I did my Masters at Durham University and I did my undergraduate studies at the University of Chicago. My MSc thesis was on Birman-Williams' work on Lorenz knots. My BA thesis was on Aquinas' 3rd Way. 
+<b>Academic Background:</b> I did my PhD at the University of Birmingham, under the supervision of <a href="https://www.cs.bham.ac.uk/~sjv/" target ="_blank"> Steve Vickers</a>. Prior to my time at Birmingham, I did my Masters at Durham University and I did my undergraduate studies at the University of Chicago. My MSc thesis was on Birman-Williams' work on Lorenz knots. My BA thesis was on Aquinas' 3rd Way. 
