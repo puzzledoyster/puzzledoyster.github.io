@@ -9,7 +9,9 @@ redirect_from:
 ---
 <b>What I'm doing now:</b> I am currently a PostDoc at Queen Mary University of London, under the supervision of Ivan Tomasic.
 
-<b>What I'm thinking about:</b> Topos theory, at its core, is motivated by recognising topological ideas in settings which are not obviously topological -- e.g. in algebraic geometry (etale cohomology), or in logic (the classifying topos of geometric theories). My PhD work involved investigating various interactions between the number theory & the logic, guided through the lens of topology. There are also other things I'm thinking about:
+<b>What I'm thinking about:</b> Topos theory, at its core, is motivated by recognising topological ideas in settings which are not obviously topological -- e.g. in algebraic geometry (etale cohomology), or in logic (the classifying topos of geometric theories). My PhD work involved investigating various interactions between the number theory & the logic, guided through the lens of topology. 
+
+I'm also thinking about:
 
 <ul><li> Interactions between model theory & topos theory: AECs, Hrushovski-Loeser types, characterising saturated models etc.
   </li></ul>
