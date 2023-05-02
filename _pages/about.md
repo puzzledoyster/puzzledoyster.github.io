@@ -11,7 +11,7 @@ redirect_from:
 
 <b>What I'm thinking about:</b> Topos theory, at its core, is motivated by recognising topological ideas in settings which are not obviously topological -- e.g. in algebraic geometry (etale cohomology), or in logic (the classifying topos of geometric theories). My PhD work involved investigating various interactions between the number theory & the logic, guided through the lens of topology. 
 
-<ul><li> <a href="/publications/FINALSUBMISSION.pdf">Thesis</a>: Adelic Geometry via Topos Theory. Here's a brief <a href=/publications/Introduction> overview</a>. </li></ul>
+<ul><li> Thesis : Adelic Geometry via Topos Theory <a href="/publications/FINALSUBMISSION.pdf">PDF</a>. Here's a brief <a href=/publications/Introduction> overview</a>. </li></ul>
  
 Aside, from developing the various ideas explored in my thesis, I'm also thinking about:
 
@@ -23,4 +23,4 @@ Aside, from developing the various ideas explored in my thesis, I'm also thinkin
   </li></ul>
 
 
-<b>Academic Background:</b> I did my PhD at the University of Birmingham, under the supervision of <a href="https://www.cs.bham.ac.uk/~sjv/" target ="_blank"> Steve Vickers</a>. Prior to my time at Birmingham, I did my Masters at Durham University and I did my undergraduate studies at the University of Chicago. My MSc thesis was on Birman-Williams' work on Lorenz knots. My BA thesis was on Aquinas' 3rd Way. 
+<b>Academic Background:</b> I did my PhD at the University of Birmingham, under the supervision of <a href="https://www.cs.bham.ac.uk/~sjv/" target ="_blank"> Steve Vickers</a>. Prior to my time at Birmingham, I did my Masters at Durham University and my undergraduate studies at the University of Chicago. My MSc thesis was on Birman-Williams' work on Lorenz knots. My BA thesis was on Aquinas' 3rd Way. 
