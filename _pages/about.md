@@ -13,7 +13,7 @@ redirect_from:
 
 <ul><li> Thesis : Adelic Geometry via Topos Theory <a href="/publications/FINALSUBMISSION.pdf">PDF</a>. Here's a brief <a href="/publications/Introduction.pdf"> overview</a>. </li></ul>
  
-Aside, from developing the various ideas explored in my thesis, I'm also thinking about:
+Aside from developing the various ideas explored in my thesis, I'm also thinking about:
 
 <ul><li> Interactions between model theory & topos theory: AECs, Hrushovski-Loeser types, characterising saturated models etc.
   </li></ul>
