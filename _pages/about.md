@@ -17,7 +17,7 @@ Aside from developing the various ideas explored in my thesis, I'm also thinking
 
 <ul><li> Interactions between model theory & topos theory: AECs, Hrushovski-Loeser types, characterising saturated models etc.
   </li></ul>
-  <ul><li> Distribution of Rational Points: I am currently co-organising the <a href="https://nms.kcl.ac.uk/rosa.winter/StudyGroupManinSzemeredi.html"> London Algebraic NT study group on Manin's Conjecture & Szemeredi Regularity</a> with Rosa Winter. Here is the <a href="https://www.overleaf.com/read/tsvffxxjhzyz"> syllabus</a>.
+  <ul><li> Distribution of Rational Points: In Spring 2023, I co-organised the <a href="https://nms.kcl.ac.uk/rosa.winter/StudyGroupManinSzemeredi.html"> London Algebraic NT study group on Manin's Conjecture & Szemeredi Regularity</a> with Rosa Winter. Here is the <a href="https://www.overleaf.com/read/tsvffxxjhzyz"> syllabus</a>.
   </li></ul>
 <ul><li> K-Theory and Scissors Congruence
   </li></ul>
