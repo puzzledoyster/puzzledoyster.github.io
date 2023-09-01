@@ -17,5 +17,5 @@ All papers, abstracts and other information
 
 <section>
 <h2 id="htt"><font color="#336666"> In Preparation </font></h2> 
-    <ul><li> Ng, M., and Vickers, S., The (Quasi-)Compactification of Spec(Z) via Descent \& Geometric Logic <i> In preparation.</i> </li></ul>
+    <ul><li> Ng, M., and Vickers, S., The (Quasi-)Compactification of Spec(Z) via Descent \& Geometric Logic. <i>In preparation.</i> </li></ul>
 </section>
