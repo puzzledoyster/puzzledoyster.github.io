@@ -9,7 +9,7 @@ redirect_from:
 ---
 <b>What I'm doing now:</b> I am currently a PostDoc at Queen Mary University of London, under the supervision of Ivan Tomasic.
 
-<b>What I'm thinking about:</b> Topos theory, at its core, is motivated by recognising topological ideas in settings which are not obviously topological -- e.g. in algebraic geometry (etale cohomology), or in logic (the classifying topos of geometric theories). My PhD work involved investigating various interactions between the number theory & the logic, guided through the lens of topology. 
+<b>What I'm thinking about:</b> Topos theory, at its core, is motivated by recognising topological ideas in settings which are not obviously topological -- e.g. in algebraic geometry (etale cohomology), or in logic (the classifying topos of geometric theories). My PhD work involved investigating various interactions between algebraic geometry & logic, guided by this unique topological lens. 
 
 <ul><li> Thesis : Adelic Geometry via Topos Theory <a href="/publications/FINALSUBMISSION.pdf">PDF</a>. Here's a brief <a href="/publications/Introduction.pdf"> overview</a>. </li></ul>
  
