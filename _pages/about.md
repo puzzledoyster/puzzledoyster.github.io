@@ -7,7 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<b>What I'm doing now:</b> I am currently a PostDoc at Queen Mary University of London, under the supervision of Ivan Tomasic.
+<b>What I'm doing now:</b> I am currently a PostDoc at Queen Mary University of London, under the supervision of Ivan Tomasic. 
+
+I'm also co-organising this year's SEEMOD Model Theory workshops, the next one to be held at <a href="https://lorna-gregory.netlify.app/seemod">Imperial College, 13th Dec 2023</a>. 
+
+
+
 
 <b>What I'm thinking about:</b> Topos theory, at its core, is motivated by recognising topological ideas in settings which are not obviously topological -- e.g. in algebraic geometry (etale cohomology), or in logic (the classifying topos of geometric theories). My PhD work involved investigating various interactions between algebraic geometry & logic, guided by this unique topological lens. 
 
