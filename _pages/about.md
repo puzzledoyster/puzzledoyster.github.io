@@ -12,7 +12,7 @@ redirect_from:
 
 <b>What I'm thinking about:</b> Topos theory, at its core, is motivated by recognising topological ideas in settings which are not obviously topological -- e.g. in algebraic geometry (etale cohomology), or in logic (the classifying topos of geometric theories). My PhD work involved investigating various interactions between algebraic geometry & logic, guided by this unique topological lens. 
 
-<ul><li> Thesis : Adelic Geometry via Topos Theory <a href="/publications/FINALSUBMISSION.pdf">PDF</a>. Here's a brief <a href="/publications/Introduction.pdf"> overview</a>. </li></ul>
+<ul><li> Thesis : Adelic Geometry via Topos Theory <a href="/publications/FINALSUBMISSION.pdf">PDF</a>. Here's a brief <a href="/publications/ThesisWork.pdf"> overview</a>. </li></ul>
  
 Aside from developing the various ideas explored in my thesis, I'm also thinking about:
 
