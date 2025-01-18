@@ -19,7 +19,7 @@ In addition, I also like to think about:
 
 <ul><li> K-theory of Varieties, G-Manifolds, Matroids etc. 
   </li></ul>
-<ul><li> <i>Interfaces with Logic.</i>. Keisler's Order, Computability Theory, Hrushovski-Loeser Theory, Learning Theory etc.
+<ul><li> <i>Interfaces with Logic.</i> Keisler's Order, Computability Theory, Hrushovski-Loeser Theory, Learning Theory etc.
   </li></ul>
   <ul><li> <i>Distribution of Rational Points.</i> In Spring 2023, I co-organised the <a href="https://nms.kcl.ac.uk/rosa.winter/StudyGroupManinSzemeredi.html"> London Algebraic NT study group on Manin's Conjecture & Szemeredi Regularity</a> with Rosa Winter. Here is the <a href="https://www.overleaf.com/read/tsvffxxjhzyz"> syllabus</a>.
   </li></ul>
