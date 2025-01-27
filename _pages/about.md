@@ -24,6 +24,11 @@ In addition, I also like to think about:
   <ul><li> <i>Distribution of Rational Points.</i> In Spring 2023, I co-organised the <a href="https://nms.kcl.ac.uk/rosa.winter/StudyGroupManinSzemeredi.html"> London Algebraic NT study group on Manin's Conjecture & Szemeredi Regularity</a> with Rosa Winter. Here is the <a href="https://www.overleaf.com/read/tsvffxxjhzyz"> syllabus</a>.
   </li></ul>
 
+<figure>  
+<img src='https://puzzledoyster.github.io/images/ATFlip2.png' width="600" 
+     height="300" class ="center">
+</figure>
+
 
 <b>Academic Background:</b> I was previously a PostDoc at Queen Mary University of London, under the supervision of Ivan Tomasic and Behrang Noohi. I did my PhD at the University of Birmingham, under the supervision of <a href="https://www.cs.bham.ac.uk/~sjv/" target ="_blank"> Steve Vickers</a>.
 
