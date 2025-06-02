@@ -17,7 +17,7 @@ My PhD work investigated various interactions between arithmetic geometry and lo
  
 In addition, I also like to think about:
 
-<ul><li> K-theory of Varieties, G-Manifolds, Matroids etc. 
+<ul><li> K-theory of Varieties, G-Manifolds, Definable Sets, Matroids etc. 
   </li></ul>
 <ul><li> <i>Interfaces with Logic.</i> Keisler's Order, Computability Theory, Hrushovski-Loeser Theory, Learning Theory etc.
   </li></ul>
