@@ -9,7 +9,9 @@ redirect_from:
 ---
 <b>What I'm doing now:</b> I am currently a JSPS PostDoc Fellow at Nagoya University, hosted by Takayuki Kihara. 
 
-<p><b>What I'm thinking about:</b> My research lies in <b>Topology</b> and <b>Logic</b>, spanning both fields independently as well as their rich interface. A key idea underscoring my research is the question: "What is a space?" When abstracted in the right way and placed in the right contexts, this question can be both subtle and surprisingly powerful. I am currently focusing on two main projects:
+<p><b>What I'm thinking about:</b> My research lies in <b>Topology</b> and <b>Logic</b>, spanning both fields independently as well as their rich interface. A key idea underscoring my research is the question: "What is a space?" When abstracted in the right way and placed in the right contexts, this question can be both subtle and surprisingly powerful. 
+  
+My current focus is two main projects:
 
 <ul><li> <b>Cut-and-paste K-theory.</b>  <i>Applying homotopy theory to the geometry of algebraic varieties, G-manifolds, and definable sets.</i>
   </li> <li> <b>Game-theoretic Katetov Order and the Effective Topos.</b> <i> Joint with T. Kihara, we investigate how distinct notions of complexity arising in set theory and computability theory are, perhaps surprisingly, controlled by the same core mechanism.</i></li></ul></p>
