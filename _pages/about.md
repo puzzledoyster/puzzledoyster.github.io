@@ -15,7 +15,6 @@ redirect_from:
   </li> <li> <b>Game-theoretic Katetov Order and the Effective Topos.</b> <i> Joint with T. Kihara, we investigate how distinct notions of complexity arising in set theory and computability theory are, perhaps surprisingly, controlled by the same core mechanism.</i></li></ul></p>
   
 <br>
-<br>
 
 <figure>  
 <img src='https://puzzledoyster.github.io/images/ExampleFINAL.png' width="800" 
