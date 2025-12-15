@@ -32,5 +32,5 @@ My current focus is two main projects:
 <ul><li> Thesis : Adelic Geometry via Topos Theory <a href="/publications/FINALSUBMISSION.pdf">PDF</a>. Here's a brief <a href="/publications/ThesisWork.pdf"> overview</a>. </li></ul>
 
 
-<b>Email:</b> ng.ming.k0 [AT] a.mail.nagoya-u.ac.jp  
+<b>Email:</b> ngming.math[AT]gmail[DOT]com  
 
