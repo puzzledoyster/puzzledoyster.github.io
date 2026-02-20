@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<b>What I'm doing now:</b> Most recently, I was a JSPS PostDoc Fellow at Nagoya University, hosted by Takayuki Kihara. 
+<b>What I'm doing now:</b> Most recently, a JSPS PostDoc Fellow at Nagoya University, hosted by Takayuki Kihara. 
 
 <p><b>What I'm thinking about:</b> My research lies in <b>Topology</b> and <b>Logic</b>, spanning both fields independently as well as their rich interface. A key idea underscoring my research is the question: "What is a space?" When abstracted in the right way and placed in the right contexts, this question can be both subtle and surprisingly powerful. 
   
