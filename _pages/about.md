@@ -14,7 +14,7 @@ redirect_from:
 My current focus is two main projects:
 
 <ul><li> <b>Cut-and-paste K-theory.</b>  <i>Applying homotopy theory to the geometry of algebraic varieties, G-manifolds, and definable sets.</i>
-  </li> <li> <b>Game-theoretic Katetov Order and the Effective Topos.</b> <i> Joint with T. Kihara, we investigate how distinct notions of complexity arising in set theory and computability theory are, perhaps surprisingly, controlled by the same core mechanism. <a href="/publications/PLS_paper.pdf">Here</a> is a brief overview.</i></li></ul></p>  
+  </li> <li> <b>Game-theoretic Katetov Order and the Effective Topos.</b> <i> Joint with T. Kihara, we investigate how distinct notions of complexity arising in set theory and computability theory are, perhaps surprisingly, controlled by the same core mechanism.</i> ( <a href="/publications/PLS_paper.pdf">Overview</a> )</li></ul></p>  
   
 <br>
 
