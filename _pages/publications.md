@@ -8,6 +8,7 @@ author_profile: true
 All papers, abstracts and other information
 <section>
 <h2 id="htt"><font color="#336666"> Papers </font></h2> 
+     <ul><li> (with T. Kihara). "What can Topology tell us about Logical Complexity?" <a href="/publications/PLS_paper.pdf">PDF</a> </li></ul>
     <ul><li> (with T. Kihara). "The Game-theoretic Katetov Order and Idealised Effective Subtoposes."  <a href="https://arxiv.org/abs/2602.08138">arXiv</a> </li></ul>
     <ul><li> "K_1(Var) is presented by stratified birational equivalences." <a href="https://arxiv.org/pdf/2510.20433">arXiv</a> </li></ul>
   <ul><li> (with M. Merling, J. Semikina, A. Sendon Blanco, and L. Williams) "Scissors congruence K-theory for equivariant manifolds."  <i>Bulletin of London Mathematical Society, Vol. 58, No. 1, (2026).</i>  <a href="https://arxiv.org/abs/2501.06928">arXiv</a> </li></ul>
