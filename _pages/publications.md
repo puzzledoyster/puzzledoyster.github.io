@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-All papers, abstracts and other information
+All papers and other information
 <section>
 <h2 id="htt"><font color="#336666"> Papers </font></h2> 
      <ul><li> (with T. Kihara). "What can Topology tell us about Logical Complexity?" <a href="https://arxiv.org/pdf/2605.14086">arXiv</a> </li></ul>
