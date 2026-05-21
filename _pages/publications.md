@@ -24,5 +24,5 @@ All papers and other information
 
 <section>
 <h2 id="htt"><font color="#336666"> In Preparation </font></h2> 
-    <ul><li> "The Archimedean Place is a Blurred Interval." <i> In preparation. </i> </li></ul>
+    <ul><li> "The Archimedean Place is a Blurred Interval at Infinity." <i> In preparation. </i> </li></ul>
 </section>
