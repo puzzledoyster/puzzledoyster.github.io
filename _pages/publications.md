@@ -9,7 +9,7 @@ All papers and other information
 <section>
 <h2 id="htt"><font color="#336666"> Papers </font></h2> 
   <ul><li> (with T. Kihara). "The Gamified Katětov order is not linear (in fact, very much not so)." <a href="https://arxiv.org/pdf/2605.21473"> arXiv</a> </li></ul>
-     <ul><li> (with T. Kihara). "What can Topology tell us about Logical Complexity?" <a href="https://arxiv.org/pdf/2605.14086">arXiv</a> </li></ul>
+     <ul><li> (with T. Kihara). "What can Topology tell us about Logical Complexity?"  <i> To appear in the  Proceedings of the 15th Panhellenic Logic Symposium.</i> <a href="https://arxiv.org/pdf/2605.14086">arXiv</a> </li></ul>
     <ul><li> (with T. Kihara). "The Game-theoretic Katětov Order and Idealised Effective Subtoposes."  <a href="https://arxiv.org/abs/2602.08138">arXiv</a> </li></ul>
     <ul><li> "K_1(Var) is presented by stratified birational equivalences." <a href="https://arxiv.org/pdf/2510.20433">arXiv</a> </li></ul>
   <ul><li> (with M. Merling, J. Semikina, A. Sendon Blanco, and L. Williams) "Scissors congruence K-theory for equivariant manifolds."  <i>Bulletin of London Mathematical Society, Vol. 58, No. 1, (2026).</i>  <a href="https://arxiv.org/abs/2501.06928">arXiv</a> </li></ul>
