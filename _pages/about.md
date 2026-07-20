@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<b>What I'm doing now:</b> Most recently, a JSPS PostDoc Fellow at Nagoya University, hosted by Takayuki Kihara. 
+<b>What I'm doing now:</b> Most recently, a JSPS PostDoc Fellow at Nagoya University, hosted by Takayuki Kihara. Soon to be a PostDoc Fellow at Université d'Artois under <a href="https://www.math.univ-paris13.fr/kash/"> K-theory, Actions and stable Homotopy (KAsH)</a>.
 
 <p><b>What I'm thinking about:</b> My research lies in <b>Topology</b> and <b>Logic</b>, spanning both fields independently as well as their rich interface. A key idea underscoring my research is the question: "What is a space?" When abstracted in the right way and placed in the right contexts, this question can be both subtle and surprisingly powerful. 
   
