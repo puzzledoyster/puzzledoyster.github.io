@@ -29,7 +29,7 @@ My current focus is two main projects:
 
 <b>Academic Background:</b> I did my PhD at the University of Birmingham, under the supervision of <a href="https://sjvickers.github.io/"> Steve Vickers</a>. My thesis investigated various interactions between arithmetic geometry and logic, guided by the unique lens of topos theory. 
 
-<ul><li> Thesis : Adelic Geometry via Topos Theory <a href="/publications/FINALSUBMISSION.pdf">PDF</a>. Here's a brief <a href="/publications/ThesisWork.pdf"> overview</a>. </li></ul>
+<ul><li> Thesis : Adelic Geometry via Topos Theory <a href="/publications/FINALSUBMISSION.pdf">PDF</a>.
 
 
 <b>Email:</b> ngming.math[AT]gmail[DOT]com  
