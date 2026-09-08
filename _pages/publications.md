@@ -9,7 +9,7 @@ All papers and other information
 <section>
 <h2 id="htt"><font color="#336666"> Papers </font></h2> 
     <ul><li> "The Archimedean place is a blurred interval at infinity." 
-     <a href="/publications/Places.pdf"> PDF</a> <a 
+     <a href="/publications/Places.pdf"> PDF</a> </li></ul>
   <ul><li> (with T. Kihara). "The Gamified Katětov order is not linear (in fact, very much not so)." <a href="https://arxiv.org/pdf/2605.21473"> arXiv</a> </li></ul>
      <ul><li> (with T. Kihara). "What can Topology tell us about Logical Complexity?"  <i> To appear in the  Proceedings of the 15th Panhellenic Logic Symposium.</i> <a href="https://arxiv.org/pdf/2605.14086">arXiv</a> </li></ul>
     <ul><li> (with T. Kihara). "The Game-theoretic Katětov Order and Idealised Effective Subtoposes."  <a href="https://arxiv.org/abs/2602.08138">arXiv</a> </li></ul>
